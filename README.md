@@ -1,1 +1,1 @@
-# responsive-NAV-with-hamburger-menu
+Fully responsive NAV with hamburger menu.
